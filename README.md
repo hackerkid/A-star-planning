@@ -14,25 +14,19 @@ Now,  we are trying to guide a robot which has dimensions, so such robot should 
 
 Input Images
 
-![alt text][logo]
-[logo]: 1.jpg "Sample Image"
+![alt text](1.jpg)
 
-![alt text][logo]
-[logo]: 2.jpg "Sample Image"
+![alt text](2.jpg)
 
-![alt text][logo]
-[logo]: 3.jpg "Sample Image"
+![alt text](3.jpg)
 
 For this we preprocess our input images to create clearances for robot.
 
-![alt text][logo]
-[logo]: Clearance/1.jpg "Sample Image"
+![alt text](Clearance/1.jpg)
 
-![alt text][logo]
-[logo]: Clearance/2.jpg "Sample Image"
+![alt text](Clearance/2.jpg)
 
-![alt text][logo]
-[logo]: Clearance/3.jpg "Sample Image"
+![alt text](Clearance/3.jpg)
 
 Now on the basis of these clearnace values, we deviced our cost function as normal distribution of this clearance value.
 
@@ -40,11 +34,8 @@ After applying A* on these images , we get following output:
 
 Output Images:
 
-![alt text][logo]
-[logo]: output/1.jpg "Sample Image"
+![alt text](output/1.jpg)
 
-![alt text][logo]
-[logo]: output/2.jpg "Sample Image"
+![alt text](output/2.jpg)
 
-![alt text][logo]
-[logo]: output/3.jpg "Sample Image"
+![alt text](output/3.jpg)
